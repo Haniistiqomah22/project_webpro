@@ -7,7 +7,7 @@
         <div class="col-md-8">
             <div class="card">
                 <div class="card-header">{{ __('Dashboard') }}</div>
-
+                <h3> Hani Istiqomah UAS Pemrograman WEB </h3>
                 <div class="card-body">
                     <div class="table table-responsive">
                         <table class="table table-responsive table-bordered table-striped table-hover">
